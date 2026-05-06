@@ -17,6 +17,8 @@ void main() {
     //Map<String, Double> part2 = Partie2.run(trips);
     //part2.forEach((city, count) -> System.out.println(city + " : " + count));
 
+    // PARTIE 3
+    Partie3.run(trips);
 
     // appeler les méthodes des exos ici
     // pour tester si ça marche bien, générer une liste de 10 éléments et afficher le résultat
